@@ -1,4 +1,5 @@
-<img width="1456" height="720" alt="coffeebuddy" src="https://github.com/user-attachments/assets/c29727c8-3a16-45f1-819c-cdd4b02e574d" />
+<img width="1456" height="720" alt="coffeebuddy" src="https://github.com/user-attachments/assets/fe00d943-c523-440b-b10e-46dd91d09c94" />
+
 
 
 # ☕ CoffeeBuddy
